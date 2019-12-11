@@ -1,0 +1,16 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "ttttttttt",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "clsx": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/core": "latest"
+  },
+  "keywords": [],
+  "name": "material-demo"
+}
